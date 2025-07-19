@@ -3,7 +3,7 @@
  * Plugin Name: Elastic Email Sub-account
  * Description: A plugin to allow Elastic Email sub-accounts to manage their account from the WordPress frontend.
  * Version: 1.2
- * Author: Your Name
+ * Author: ZAGROX
  */
 
 if (!defined('ABSPATH')) {
